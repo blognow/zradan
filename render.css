@@ -1,0 +1,8 @@
+.tit_seccion .texto_titulo {    
+    width: 160px !important;
+}
+
+#sidebarCitas {
+    display: none;
+}
+
